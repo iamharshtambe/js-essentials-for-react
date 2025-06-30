@@ -17,3 +17,14 @@ console.log(otherGenre);
 const newGenres = [...genres, 'epic fantasy'];
 
 console.log(newGenres);
+
+/*
+✅ Objects with Spread Operator: Create a new object by copying existing properties and overriding some
+*/
+const updatedBook = {
+   ...book,
+   moviePublicationDate: '2001-12-19',
+   pages: 1222,
+};
+
+console.log(updatedBook);
