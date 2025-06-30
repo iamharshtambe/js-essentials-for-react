@@ -1,4 +1,4 @@
-const data = [
+export const data = [
    {
       id: 1,
       title: 'The Lord of the Rings',
@@ -135,10 +135,10 @@ const data = [
    },
 ];
 
-function getBooks() {
+export function getBooks() {
    return data;
 }
 
-function getBook(id) {
+export function getBook(id) {
    return data.find((d) => d.id === id);
 }
