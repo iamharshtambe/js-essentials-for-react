@@ -16,7 +16,6 @@ const data = [
       pages: 1216,
       translations: {
          spanish: 'El señor de los anillos',
-         chinese: '魔戒',
          french: 'Le Seigneur des anneaux',
       },
       reviews: {
