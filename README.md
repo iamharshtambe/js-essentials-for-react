@@ -23,7 +23,7 @@ This repository covers the most important JavaScript concepts you need to master
 
    ```bash
    git clone https://github.com/iamharshtambe/js-essentials-for-react.git
-   cd js-essentials-react
+   cd js-essentials-for-react
    ```
 
 2. **Run individual files**
