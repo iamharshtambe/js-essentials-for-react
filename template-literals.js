@@ -1,4 +1,4 @@
-import { getBook } from './data/data';
+import { getBook } from './data/data.js';
 
 const book = getBook(3);
 
